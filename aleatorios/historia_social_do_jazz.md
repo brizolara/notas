@@ -4,7 +4,7 @@ O livro é de **1959-61**.
 
 O objetivo não é um resumo do jazz da época. E sim,
 > rastrear suas raízes sociais e históricas, analisar a sua estrutura econômica, seu corpo de músicos, a natureza do seu público e as razões para seu extraordinário apelo, tanto nos EUA, quanto fora deles.    
-> Em segundo lugar, o livro se propunha a fornecer uma introdução para a geração de fãs e simpatizantes que o haviam descoberto nos 50's, e para os leitores com um bom nível de escolaridade e cultura geral que àquela altura, começavam a perceber que precisavam sabe alguma coisa sobre o assunto
+> Em segundo lugar, o livro se propunha a fornecer uma introdução para a geração de fãs e simpatizantes que o haviam descoberto nos 50's, e para os leitores com um bom nível de escolaridade e cultura geral que àquela altura, começavam a perceber que precisavam saber alguma coisa sobre o assunto
 
 O jazz sempre foi um interesse de minoria, como a música clássica. Mas, ao contrário dessa, o interesse que despertava não era estável; ele cresceu intensamente de sopetão.
 
