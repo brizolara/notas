@@ -4,7 +4,7 @@ O livro é de **1959-61**.
 
 O objetivo não é um resumo do jazz da época. E sim,
 > rastrear suas raízes sociais e históricas, analisar a sua estrutura econômica, seu corpo de músicos, a natureza do seu público e as razões para seu extraordinário apelo, tanto nos EUA, quanto fora deles.    
-> Em segundo lugar, o livro se propunha a fornecer uma introdução para a geração de fãs e simpatizantes que o haviam descoberto nos 50's, e para os leitores com um bom nível de escolaridade e cultura geral que àquela altura, começavam a perceber que precisavam sabe alguma coisa sobre o assunto
+> Em segundo lugar, o livro se propunha a fornecer uma introdução para a geração de fãs e simpatizantes que o haviam descoberto nos 50's, e para os leitores com um bom nível de escolaridade e cultura geral que àquela altura, começavam a perceber que precisavam saber alguma coisa sobre o assunto
 
 O jazz sempre foi um interesse de minoria, como a música clássica. Mas, ao contrário dessa, o interesse que despertava não era estável; ele cresceu intensamente de sopetão.
 
@@ -40,7 +40,7 @@ Inovações do rock:
 - Fez dos técnicos de som e de estúdio parceiros igualitários na construção de um número musical - costumava ser o único meio, vista a incompetência dos músicos de rock. Mas isso não deixaria de influenciar músicos genuinamente talentosos e criativos.
 - Um pequeno conjunto com um grande som. Um som característico (novamente, trabalho para os técnicos de estúdio) e não vários virtuoses reunidos (até porque dificilmente músicos de rock tinham alguma habilidade a demonstrar). **Isso ajudou a trazer os pequenos conjuntos de jazz de volta ao se se havia perdido já na época dos sucessivos solos do bebop. Também, arranjos sofisticados de rock, como Sgt. Peppers, davam ideias ao jazz.**
 
-No fom dos 70, iniciou-se um revival.
+No fim dos 70, iniciou-se um revival.
 
 O jazz não é oficial, estabelecido ou previsível, ou então não será nada. A única coisa que se pode com certeza afirmar é que ele sobreviveu durante os anos mais difíceis de sua carreira extraordinária. Novas levas de homens e mulheres poderão ouvir novamente seus sons maravilhosos pela primeira vez em suas vidas, e se apaixonar, como nós; geralmente à época de seu primeiro amor, como nós. Eles não saberão que, cinquenta anos mais tarde, através dessa música serão capazes de reviver maravilhosas revelações da juventude, e se o soubessem, não ligariam. E no entanto, é verdade.
 
