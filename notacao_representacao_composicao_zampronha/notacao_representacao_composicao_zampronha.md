@@ -2,6 +2,8 @@
 
 #### Introdução
 
+No paradima tradicional, a notação é vista como meio de **registro** e **comunicação**.
+
 **Escritura**: tipo de organização do pensamento musical    
 **Escrita**: ambiente das possibilidades de geração de escrituras
 Uma escrita, ao ser adotada, gera escrituras
@@ -56,7 +58,7 @@ Só refaço a crítica que fiz lá em cima: **composição é só trabalhar com 
 
 #### 1 - A Notação Conforme O Paradigma Tradicional
 
-Ela não é a música, mas um meio de registro. O percurso histórico da notação musical ocidental é no sentido de remoção de ambiguidades e aumento do detalhamento.
+A **notaçaõ não é a música**, mas um meio de registro. O percurso histórico da notação musical ocidental é no sentido de remoção de ambiguidades e aumento do detalhamento.
 
 GOODMAN, 1948:
 
@@ -66,3 +68,35 @@ Densa e contínua. Logo, permite ver novos elementos ao dar zoom | Articulada   
 Ex.: fotografia                                | Ex.: escrita                             |
 Está para a notação ideogramática (ideogramas) | Está para a notação alfabética (fonemas) |
 
+Para GOODMAN:
+
+A **partitura** é **articulada**.    
+A **performance** é:
+- articulada em relação à partitura
+- densa como fenômeno no mundo
+
+Mas, se a notação não é a obra, pode a performance, algo vindo do que não é a obra, ser a obra?
+
+Kivy (1984) propõe sobre as ideias de Goodman:
+- A partitura é articulada **e** densa (ex.: *Allegro con brio*, *mp*, etc, são densas)
+- A partitura é um modelo, que descreve a **essência** da obra, a performance não precisa segui-lo à risca
+
+> Nota minha: por que uma única definição de obra que abarque qualquer tipo? Se eu escrevo uma música de piano solo e acho que minha partitura é suficiente para uma boa performance vir a existir, qual o problema de eu ter exatamente a concepção de Kivy? Afinal de contas: 1) Eu nem precisaria de notação para ter uma música (posso ter feito tudo de ouvido); 2) Se minha partitura for perdida ou sofrer as modificações que a notação sofre com o tempo ou se for adaptada a outro instrumento, sigo com a mesma música...    
+> Meu ponto é (sem querer encerrar a questão, já que esta nos aprofunda): o que é a obra é uma questão *consensual*.    
+> Mesmo se falarmos que uma música composta de ouvido é uma notação na mente com os signos próprios da experiência da pessoa, como posso achar que a obra é só aquilo que está na mente dela? Vamos ver como o Zampronha desenvolve...
+
+Na visão tradicional, então, a notação é redutora da complexidade do objeto musical. Logo, se fosse possível, seria eliminada.    
+Daí, a melhor notação é a mais precisa, neutra e fiel possível. A ideal é a que se apaga perante o objeto, procura ser imperceptível, não interferir, ser ausente.
+
+> Nota minha: realmente, é o paradigma tradicional. Hoje sabemos que a própria notação influencia na composição. Por isso insisto que a relação entre notação e obra não precisa ser a mesma para todas as obras...
+
+##### Dois polos opostos: Platão e Derrida
+
+###### Platão
+
+7 graus da ascese. O 7o é o belo em si, impossível de ser representado.    
+Em relação ao conhecimento, o 7o grau corresponde à **coisa propriamente dita, sem representação**. Os graus iniciais da ascese correspondem à representação do objeto, enquanto os intermediários, ao conhecimento do objeto diretamente na alma e não na matéria.
+
+Note que qualquer representação carrega consigo negação. Uma coisa ser algo é ela não ser as outras coisas. O 7o grau da ascese é pura positividade, pois não é representação.
+
+###### Derrida
