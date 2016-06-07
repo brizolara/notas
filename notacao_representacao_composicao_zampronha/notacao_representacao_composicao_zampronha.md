@@ -1,6 +1,6 @@
 ### Edson Zampronha - Notação, representação e Composição
 
-#### Introdução
+#### 1. Introdução
 
 No paradima tradicional, a notação é vista como meio de **registro** e **comunicação**.
 
@@ -100,3 +100,23 @@ Em relação ao conhecimento, o 7o grau corresponde à **coisa propriamente dita
 Note que qualquer representação carrega consigo negação. Uma coisa ser algo é ela não ser as outras coisas. O 7o grau da ascese é pura positividade, pois não é representação.
 
 ###### Derrida
+
+Para ele, o mundo ocidental estrutura o mundo entre **pares de opostos**: mente/corpo, essência/existência, ser/devir, objeto/representações, fala/escrita, onde o 1o termo é hierarquicamente superior.    
+Derrida questiona a metafísica ocidental e a chama de uma **metafísica da presença**: *metafísica* porque aquilo que a representação transmite é externo a ela. E *presença* porque as representações procuram dar a impressão de que o representado está ali de fato, presente.    
+Nessa visão a escrita deveria se anular para transmitira algo que não é ela mesma - a fala.
+
+**Desconstrução**: Todo signo é representação [?] e tem duplo aspecto:
+- *Representação*: Uma imagem, conceito, ideia. *Se aproxima* da coisa a que se refere.
+- *Re-presentação*: Uma remissão à ideia. Como a pálavra "árvore". *Se afasta* da coisa a que se refere, pois se remete a uma representação.
+
+Derrida mostra que **tudo é signo**. Se o que o signo re-presenta é uma representação, esta só pode ser outro signo. E como todo signo conta com re-presentação, essa cadeia [ou seria rede?] segue infinitamente. **Não há signo original**.    
+
+*Différance* (différence [diferença] + deferment [deferimento]): o processo pelo qual as marcas aparecem e constituem os signos: o simples gerar de uma marca gera diferença (representação) e deferimento (re-presentação).    
+Assim, **tanto a fala quanto a escrita** não são mais que **conjuntos de marcas**, seja sobre o **ar** ou sobre o **papel**.
+
+Assim, um significado só pode surgir do jogo sígníco. "Um significado não é mais que um significante posto numa certa posição por outros significantes: não existe significado ou sentido, **só há efeitos**" [grifo meu] (BENNINGTON E DERRIDA, 1991:34)    É como no dicionário, onde palavras explicam palavras.    
+O que há é somente o movimento da *différance*, o jogo das marcas, rastros, pois é através da *différance* que uma marca surge, e, por consequencia, sua significação.
+A analogia de Derrida é a de **uma onda que se ergue no oceano. Significante e significado são efeitos de superfície da *différance* - o próprio aparecera da onda, da marca.**
+
+#### 2. Aspectos gerais da notação e uma possível tipologia
+
