@@ -44,4 +44,9 @@ No fim dos 70, iniciou-se um revival.
 
 O jazz não é oficial, estabelecido ou previsível, ou então não será nada. A única coisa que se pode com certeza afirmar é que ele sobreviveu durante os anos mais difíceis de sua carreira extraordinária. Novas levas de homens e mulheres poderão ouvir novamente seus sons maravilhosos pela primeira vez em suas vidas, e se apaixonar, como nós; geralmente à época de seu primeiro amor, como nós. Eles não saberão que, cinquenta anos mais tarde, através dessa música serão capazes de reviver maravilhosas revelações da juventude, e se o soubessem, não ligariam. E no entanto, é verdade.
 
+#### Introdução de 1958
+
+> É dificil encontrar paralelo para sua história. Outras linguagens já tiveram esse dom de proselitismo: húngara, espanhola, latinoamericana. Nossos dias e cultura são carentes de transfusões de sangue periódicas, para rejuvenescer a cansada e exaurida ou exangue arte de classe média, ou a arte popular, que tem sua vitalidade drenada pela degeneração comercial sistemática e pela superexploração.
+> Desde que os aristocratas e a classe média emprestaram a valsa das "camadas sociais inferiores" e a polca dos camponeses de uma nação exótica e revolucionária, desde que os intelectuais românticos descobriram o *frisson* das *Carmens* e *Don Josés* andaluzes, a civilizaçao ocidental tem sido uma busca de exotismos de todos os tipos. E, no entanto, o triunfo do jazz é ainda maior, mais universal e abrangente do que o das linguagens comparáveis, surgidas anteriormente. Ele tornou-se, de forma mais ou menos diluída, a linguagem básica da dança moderna e música popular da civilização urbana industrial, na maioria dos espaços onde penetrou.
+
 
