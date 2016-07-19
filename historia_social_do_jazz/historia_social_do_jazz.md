@@ -49,4 +49,37 @@ O jazz não é oficial, estabelecido ou previsível, ou então não será nada. 
 > É dificil encontrar paralelo para sua história. Outras linguagens já tiveram esse dom de proselitismo: húngara, espanhola, latinoamericana. Nossos dias e cultura são carentes de transfusões de sangue periódicas, para rejuvenescer a cansada e exaurida ou exangue arte de classe média, ou a arte popular, que tem sua vitalidade drenada pela degeneração comercial sistemática e pela superexploração.
 > Desde que os aristocratas e a classe média emprestaram a valsa das "camadas sociais inferiores" e a polca dos camponeses de uma nação exótica e revolucionária, desde que os intelectuais românticos descobriram o *frisson* das *Carmens* e *Don Josés* andaluzes, a civilizaçao ocidental tem sido uma busca de exotismos de todos os tipos. E, no entanto, o triunfo do jazz é ainda maior, mais universal e abrangente do que o das linguagens comparáveis, surgidas anteriormente. Ele tornou-se, de forma mais ou menos diluída, a linguagem básica da dança moderna e música popular da civilização urbana industrial, na maioria dos espaços onde penetrou.
 
+A seguinte visão tem muitas verdades, mas é insuficiente:
 
+A cultura popular atual, urbana e industrializada, transmitida pelos *mass media*, padroniza a produção cultural, a transforma em produto e passa a população para um papel passivo. Até pouco tempo, a cultura popular era autêntica, viva, vigorosa.
+
+Alguns poréns:
+
+1. O que aconteceu com a antiga cultura pré-industrial florescente?    
+* Grande parte morreu com a industrialização, ou sobreviveu em redutos remotos à espera de parcos entusiastas
+* Outros reistiram e se adaptaram, ao menos até a chegada do entretenimento de massa padronizado (ex., teatro de variedades inglês)
+* Outros não só sobreviveram e se adaptaram mas até dominaram em parte os ambientes mecanizados de entretenimento. O jazz é o mais importante desses exemplos.
+    * Algumas características fundamentais da cultura popular foram mantidas:
+        * tradição oral
+        * cada execução da mesma música é diferente
+        * ...
+    * **Muito** do jazz **se modificou** a ponto de ficar **irreconhecível**, mas é o que se espera de **uma música viva num mundo dinâmico e tempestuoso**.
+
+2. A indústria do entretenimento satisfaz necessidades que permanecem substancialmente as mesmas com o passar dos anos. **Raramente as cria** (como aviões... iphones...). Um animador medieval se sentiria perdido num estúdio de televisão, mas certamente se sentiria à vontade com o entretenimento gerado por ele. A matéria prima do entretenimento de massa é, em grande medida, uma forma adaptada de entretenimento anterior e até hoje essa indústria continua a se reciclar recorrendo à fonte.
+
+**Contraditoriedade do fenômeno cultural**. Quando as pessoas ligam seus televisores, querem "sair de si", mas também querem ser trazidas "de volta a si". A indústria não vai nos transformar em "vidiotas" porque o melhor tipo de público não é o passivo, mas o que continua cultivando esses interesses em outros círculos - como os fãs de futebol que vão aos estádios debaixo de neve ao invés de assistir pela TV.    
+Entre os jovens esse desejo de fabricar e participar de seu entretenimento é maior. Foram eles que trocaram, nos 50's, os cinemas pelos clubes de jazz e grupos de *skiffle*. As solicitções da cultura popular sã comerciais e anti-comerciais. Mas, claro, quando o anti-comercial cresce, se torna comercial vorazmente.
+
+O apelo do jazz veio da sua capacidade de oferecer o que a música pop comercial elimina de seu produto. Conquistou seu espaço como música da qual as pessoas participam ativa e socialmente, como uma arte dura e realista - não como uma música de aceitação pacífica. O sucesso foi atordoante e universal.
+
+Percorreu dois caminhos:
+* Um deles passando pela indústria do entretenimento, emprestando à música pop o que ela não pode oferecer;
+* O outro, independente, como uma arte isolada, de nicho, muitas vezes em franca oposição ao pop.
+
+Mas a música pop nunca deixou o jazz totalmente livre de seus tentáculos. Porque o jazz é música popular e já falamos sobre como funciona a indústria do entretenimento...
+
+Durante a maior parte de sua história, o jazz foi amplamente repudiado ou ignorado pelas artes de minoria oficiais [ainda hoje, 2016, os compositores e instrumentistas eruditos podem se interessar pela música eletroacústica, mas muito raramente pelo jazz, pelo choro....] - talvez porque o jazz era e é, até certo ponto, uma rebelião contra os valores da cultura da minoria. Hoje o jazz é mais amplamente aceito, talvez não tanto para seu próprio bem.
+
+"Uma arte feita pelo povo, para o povo, como prazer para o executante e o usuário". Em grande medida isso acontece. Mas está claramente longe da realidade das artes em nossa sociedade e, provavelmente, a distância só aumente com o passar das décadas. Como iremos resgatar o devido lugar das artes na vida, como fazer aflorar a capacidade criativa de cada um de nós? Não acho que o jazz seja a resposta, mas talvez tenha parte dela.
+
+### Como reconhecer o jazz
