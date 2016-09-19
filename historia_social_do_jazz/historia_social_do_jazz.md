@@ -83,3 +83,25 @@ Durante a maior parte de sua história, o jazz foi amplamente repudiado ou ignor
 "Uma arte feita pelo povo, para o povo, como prazer para o executante e o usuário". Em grande medida isso acontece. Mas está claramente longe da realidade das artes em nossa sociedade e, provavelmente, a distância só aumente com o passar das décadas. Como iremos resgatar o devido lugar das artes na vida, como fazer aflorar a capacidade criativa de cada um de nós? Não acho que o jazz seja a resposta, mas talvez tenha parte dela.
 
 ### Como reconhecer o jazz
+
+**Fluidez: folclore, música popular, música erudita...**
+Há uma vasta zona fronteiriça entre o jazz e a música popular comum, em grande parte marcada e misturada com ele.    
+Também há entre o jazz e música folclórica do qual surgiu.    
+Depois da 2a guerra, também há entre o jazz e a música erudita ortodoxa.
+
+Tem, em seu curto tempo de existência, uma notável capacidade de se modificar, e não irá garantia de que parará de fazê-lo.    
+Mesmo que se possa definí-lo, para "separá-lo de suas degenerações e da música pop" não há autoridade para fazê-lo, pois é uma arte popular moderna.
+
+Para o autor:
+1. O jazz tem escalas africanas ou de influência africana
+2. Mais áfrica: o ritmo é essencial e estruturante para o jazz, com suas síncopes, adiantamentos, atrasos, polirritmia. *Swing, driving*...
+3. Timbre próprio.  
+* A orquestra de jazz vem da orq. militar -> poucas cordas; madeiras e metais em funções pouco usuais
+* Instrumentos exóticos: vibrafones, bongôs, maracas...
+* Autodidatismo. Todo som é permitido (mas no cool jazz buscou-se o som ortdoxo)
+* Instrumentos como vozes. Se fosse na china, soariam diferentemente...
+* Experimentação. Trompete com a flexibiliade de uma madeira; trombone em registro de trompete... 
+4. Formas e repertório
+* Formas principais: blues e balada
+* Standards variam com o estilo/escola 
+5. Música de executantes.
