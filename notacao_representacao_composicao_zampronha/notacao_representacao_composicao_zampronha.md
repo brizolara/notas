@@ -120,3 +120,24 @@ A analogia de Derrida é a de **uma onda que se ergue no oceano. Significante e 
 
 #### 2. Aspectos gerais da notação e uma possível tipologia
 
+Mas então:
+- **o que** a notação representa?
+- **sob quais princípios** essa representação é construída?
+
+Abraham Moles (1958), entre outros tentou aplicar a teoria da informação de Shannon e Weaver (1949) na Música:
+```  
+   \[Fonte da informacão\]------>\[Transmissor\]------>\[Canal\]------------>\[Receptor\]-------->\[Destinatário\]
+                          mensagem              sinal     ^          sinal           mensagem
+                                               emitido    | ruído   recebido
+(muitos problemas nessa abordagem)
+```
+A fonte seria a música, o transmissor o compositor, o canal a partitura, o receptor o intérprete.
+_Problemas_: a notação musical é feita de _signos_, não de sinais. A falta do componente semântico inviabiliza esse modelo para a comunicação em geral. Funciona para uma pianola ;p.    
+
+Signos são processos _mentais_, Sinais são processos _físicos._
+
+> Nota minha: e em música, não necessariamente há uma mensagem bem definida a ser transmitida. E mesmo se alguém achar que há, ela não pode ser restituída.
+> Nota minha 2: quanto mais uma IA se aproximar de uma inteligência geral (ou mesmo musical. Há autistas socialmente desfuncionais que são grandes músicos), mais podemos aproximar sinal de signo - Mais um telefone parecerá uma pessoa e mais poderemos falar em _interpretação_ (para Eco (1973, p. 150), sinais se relacionam com estímulo/resposta).  _Isso tudo não anula a Nota anterior._
+
+
+
